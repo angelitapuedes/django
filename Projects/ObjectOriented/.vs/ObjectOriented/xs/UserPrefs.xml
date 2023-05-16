@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EBA0BD18-4A12-4476-BD21-7C1D5E713693}|Default">
+  <MonoDevelop.Ide.ItemProperties.ObjectOriented PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObjectOriented/Program.cs">
+    <Files>
+      <File FileName="ObjectOriented/Program.cs" Line="5" Column="5" />
+      <File FileName="ObjectOriented/Customer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ObjectOriented" expanded="True">
+            <Node name="ObjectOriented" expanded="True">
+              <Node name="Customer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

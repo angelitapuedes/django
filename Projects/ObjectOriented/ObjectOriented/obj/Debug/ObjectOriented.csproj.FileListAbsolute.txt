@@ -1,0 +1,6 @@
+/Users/macuser/Projects/ObjectOriented/ObjectOriented/bin/Debug/ObjectOriented.exe
+/Users/macuser/Projects/ObjectOriented/ObjectOriented/bin/Debug/ObjectOriented.pdb
+/Users/macuser/Projects/ObjectOriented/ObjectOriented/obj/Debug/ObjectOriented.csprojAssemblyReference.cache
+/Users/macuser/Projects/ObjectOriented/ObjectOriented/obj/Debug/ObjectOriented.csproj.CoreCompileInputs.cache
+/Users/macuser/Projects/ObjectOriented/ObjectOriented/obj/Debug/ObjectOriented.exe
+/Users/macuser/Projects/ObjectOriented/ObjectOriented/obj/Debug/ObjectOriented.pdb
